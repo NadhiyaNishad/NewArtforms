@@ -1,0 +1,35 @@
+.space{
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 20px;
+}
+a{
+    text-decoration: none;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+h5{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center
+  }
+  
+  img {
+    max-width: 100%
+  }
+  
+  .image {
+    flex-basis: 400%
+  }
+  
+  .text {
+    font-size: 20px;
+    padding-left: 20px;
+  }
+
